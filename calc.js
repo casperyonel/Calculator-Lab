@@ -22,8 +22,6 @@ reader.question("What would you like to calculate?", function(input){
 		console.log(num1 + num2);
 	}
 
-	//New commit
-
 	// This line closes the connection to the command line interface.
 	reader.close()
 
